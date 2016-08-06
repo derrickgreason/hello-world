@@ -1,2 +1,2 @@
 # hello-world
-hello world post
+Checking out how to make changes and commits
